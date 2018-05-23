@@ -1,12 +1,3 @@
-/*
-** rbtree.c for epitech in /home/chapui_s/travaux/rbtree/
-**
-** Made by chapui_s
-** Login   <chapui_s@epitech.eu>
-**
-** Started on  Mon Feb 16 00:30:33 2015 chapui_s
-** Last update Mon Feb 16 00:51:05 2015 chapui_s
-*/
 
 #include "rbtree.h"
 
